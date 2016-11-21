@@ -6,11 +6,6 @@ h1 {
 	text-align: center;
 }
 
-p {
-	border: 1px solid #000000;
-	margin-bottom: 15px;
-}
-
 #container1{
 	position: absolute;
 }
@@ -80,23 +75,6 @@ p {
 	height: 125px;
 	background-color: #808080;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* Simple Responsive Framework. */
 .row {
