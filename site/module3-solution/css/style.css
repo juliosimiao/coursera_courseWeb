@@ -1,0 +1,20 @@
+h1{
+	text-align: center;
+}
+
+/** HEADER **/
+.container-fluid{
+	background-color: #808080;
+}
+
+#titulo{
+	color: #000000;
+}
+
+/********** Small devices only **********/    
+@media (max-width: 767px){
+	#bs-example-navbar-collapse-1{
+		background-color: #ffffff;
+		text-align: center;
+	}
+}
